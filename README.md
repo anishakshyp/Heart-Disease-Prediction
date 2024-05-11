@@ -5,6 +5,7 @@ Here, various ML models have been applied for classifying whether a person is su
 ## Libraries :  Pandas, Matplotlib, Numpy, Seaborn and Sklearn.
 ## Dataset : https://www.kaggle.com/datasets/mragpavank/heart-diseaseuci
 The dataset consists of 303 individuals data and there are 14 columns in the dataset.
+
     Age: displays the age of the individual.
     Sex: displays the gender of the individual using the following format :
 

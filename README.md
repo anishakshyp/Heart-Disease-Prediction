@@ -3,6 +3,7 @@ Heart Disease is one of the major concerns to be dealt with. It is very importan
 Here, various ML models have been applied for classifying whether a person is suffering from Heart Disease or Not. 
 
 ## Libraries :  Pandas, Matplotlib, Numpy, Seaborn and Sklearn.
+
 ## Dataset : https://www.kaggle.com/datasets/mragpavank/heart-diseaseuci
 The dataset consists of 303 individuals data and there are 14 columns in the dataset.
 
@@ -52,3 +53,11 @@ The dataset consists of 303 individuals data and there are 14 columns in the dat
 
     0 = absence
     1, 2, 3, 4 = present.
+
+### Models used are - 
+
+    Logistic Regression
+    K Nearest Neighbors
+    Decision Tree Classifier
+    Random Forest Classifier
+    Support Vector Machine

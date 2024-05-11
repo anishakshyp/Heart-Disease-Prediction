@@ -62,3 +62,11 @@ The dataset used in this project is sourced from Kaggle. It consists of 303 indi
  	Decision Tree Classifier 	100.000000 	        85.245902
  	Random Forest Classifier 	100.000000 	        85.245902
  	Support Vector Machine 	        92.561983 	        90.163934
+
+### Usage :
+
+1. Clone this repository to your local machine or download the source code as a ZIP file.
+     git clone https://github.com/anishakshyp/Heart-Disease-Prediction.git
+2. Navigate to the project directory.
+     cd Heart-Disease-Prediction
+3. Implement in Google Colaboratory / Jupyter Notebook.

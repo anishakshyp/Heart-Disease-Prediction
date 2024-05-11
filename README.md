@@ -54,14 +54,7 @@ The dataset consists of 303 individuals data and there are 14 columns in the dat
     0 = absence
     1, 2, 3, 4 = present.
 
-### Models used are - 
-    Logistic Regression
-    K Nearest Neighbors
-    Decision Tree Classifier
-    Random Forest Classifier
-    Support Vector Machine
-
-Accuracy Comparision - 
+### Accuracy Comparision of Diff Models used - 
 
  	Model 	                        Training Accuracy % 	Testing Accuracy %
 	Logistic Regression 	        87.603306 	        88.524590
